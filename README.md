@@ -1,5 +1,7 @@
 # Analysis-of-Rider-Metrics
 Analysis of Rider Metrics: Duration, Distance, and Calories Burned
+
+# If you find this repo useful, give it a STAR 
 Approach for the provided task : 
 
 # Steps to be followed :
