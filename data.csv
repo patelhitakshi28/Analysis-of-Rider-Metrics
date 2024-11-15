@@ -1,0 +1,11 @@
+device_id,ride_nr,rider_name,duration,distance,calories_burned,gender
+101,1,John Doe,30,10.5,250,M
+101,2,John Doe,45,15.2,370,M
+102,3,Jane Smith,60,20.0,450,F
+102,4,Jane Smith,35,12.5,290,F
+103,5,Alice Johnson,50,18.3,420,F
+103,6,Alice Johnson,55,19.5,430,F
+104,7,John Doe,40,13.8,320,M
+104,8,John Doe,65,22.0,490,M
+105,9,Jane Smith,70,25.5,520,F
+105,10,Jane Smith,80,28.0,600,F

@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Alice Johnson",
+        "number_of_trips": 2,
+        "total_distance": 37.8,
+        "loggers_used": [
+            103
+        ],
+        "total_duration": 105.0,
+        "calories_burned": 850.0,
+        "average_speed": 0.36,
+        "calories_per_km": 22.486772486772487,
+        "gender": "F"
+    },
+    {
+        "name": "Jane Smith",
+        "number_of_trips": 4,
+        "total_distance": 86.0,
+        "loggers_used": [
+            102,
+            105
+        ],
+        "total_duration": 245.0,
+        "calories_burned": 1860.0,
+        "average_speed": 0.3510204081632653,
+        "calories_per_km": 21.627906976744185,
+        "gender": "F"
+    },
+    {
+        "name": "John Doe",
+        "number_of_trips": 4,
+        "total_distance": 61.5,
+        "loggers_used": [
+            101,
+            104
+        ],
+        "total_duration": 180.0,
+        "calories_burned": 1430.0,
+        "average_speed": 0.3416666666666667,
+        "calories_per_km": 23.252032520325205,
+        "gender": "M"
+    }
+]
